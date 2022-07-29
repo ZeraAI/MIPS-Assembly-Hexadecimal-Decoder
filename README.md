@@ -8,5 +8,5 @@ Download the ZIP file, and try it out! If you are unable to access the video lin
 
 
 
-# This is a collab project with preesha01
+# This is a collab project with [preesha01](https://github.com/preesha01)
 May 6, 2021
